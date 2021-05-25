@@ -7,4 +7,4 @@ eureka:
 
 config:
   test:
-    str: test1
+    str: test2
